@@ -1,2 +1,2 @@
 # Basic-Portfolio
-A Bootstrap Theme Portfolio Exercise
+Basic Portfolio using HTML and CSS.
